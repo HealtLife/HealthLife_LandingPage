@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nombre": "María López",
+    "comentario": "Me encanta la interfaz y la facilidad de uso de HealthLife.",
+    "foto": "img/user1.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos Pérez",
+    "comentario": "Las recomendaciones de dieta fueron muy útiles y adaptadas a mi nivel.",
+    "foto": "img/user2.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Ana García",
+    "comentario": "El seguimiento de actividad personalizado me motiva cada día.",
+    "foto": "img/user3.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Luis Fernández",
+    "comentario": "La sección de historial médico me ayudó a controlar mis valores de salud.",
+    "foto": "img/user4.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Sofía Martínez",
+    "comentario": "Las notificaciones son oportunas y me mantienen en el camino correcto.",
+    "foto": "img/user5.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Javier Rodríguez",
+    "comentario": "La comunidad de apoyo es muy activa y resolvió todas mis dudas.",
+    "foto": "img/user6.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Laura Torres",
+    "comentario": "Los planes de nutrición adaptativos funcionan perfectamente con mi estilo de vida.",
+    "foto": "img/user7.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Diego Ramírez",
+    "comentario": "El análisis de datos avanzado muestra mi progreso de forma clara.",
+    "foto": "img/user8.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Patricia Sánchez",
+    "comentario": "La sección ‘About the Team’ me hizo confiar más en el producto.",
+    "foto": "img/user9.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Andrés Gómez",
+    "comentario": "El plan Pro cubre todas mis necesidades y el soporte 24/7 es excelente.",
+    "foto": "img/user10.jpg"
+  }
+]
